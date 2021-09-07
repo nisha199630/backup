@@ -1,0 +1,527 @@
+37 biometric_user_id
+________________________________
+
+Nitin123@   fortec.deepakbawa@gmail.com
+++++++++++++++++++++++++++++++++++++++++
+Live project details
+
+https://my.bluehost.com/cgi/app?logout=1
+Cpanel Domain: diala.com.sa
+cpanel user : dialasa
+cpanel IP : 162.241.24.35
+cpanel pwd : .:J:a!NsXpEd5i7
+
+Cpanel pwd : qFDS#*.$p4VV883
+
+ssh dialasa@162.241.24.35
+use cpanel pwd to login
+
+multivendors.diala.sa
+
+________________________________
+Live database details:-
+DataBase Name = dialasa_multivendors
+DB_USERNAME= dialasa_multivendors_user
+DB_PASSWORD= lqf5TZM(eZJQ
+
+
+
++++++++++++++++++++++++++++++++++++++++++++
+Login Link
+https://sandbox.checkout.com/dashboard
+Username: developers@buttlekot.com
+pwd: P@$$w0rd04
++++++++++++++++++++++++++++++++++++++++++++
+
+main website login details for local and live
+username: am320
+password: abduladmin@123#
+
+New login details
+username=  AM320
+password= AM320@123#
+
+++++++++++++++++++++++++++++++++++++++
+
+php artisan passport:keys
+ Git commands
+ 
+++++++++++++++++++++++++++++++++++++++
+ 
+ cd xampp\htdocs\multivendors
+ git branch
+ git status
+ git checkout
+ git pull
+ git checkout -b new_branch_name  (create new branch)
+ git status
+ 
++++++++++++++++++++++++++++++++++++
+ 
+ GIT PULL COMMAND
+ 
+ git status
+ git pull
+ 
+ ++++++++++++++++++++++++++++++++++++++
+ 
+ Clear cache and route
+ 
+ cd xampp\htdocs\multivendors
+ php artisan config:cache
+ php artisan config:clear
+ php artisan route:clear
+ 
+ +++++++++++++++++++++++++++++++++++++++
+ 
+ git commit -m "commit message"
+ git commit -m "frontend_restrictions"
+ +++++++++++++++++++++++++++++++++++++++++++
+ How do I commit untracked files?
+	First you need to add all untracked files. Use this command line: git add *
+	
+	Then commit using this command line : git commit -a.
+	 
+
+ +++++++++++++++++++++++++++++++++++++++++++
+https://github.com/codezero-be/laravel-stagefront  Frontend site protection
+  
+ Artisan Commands for Quick Setup
+	You can also update the credentials in the .env file with our artisan command:
+
+	php artisan stagefront:credentials <username> <password> --encrypt
+	If you don't enter a username or password, the command will ask for your input step by step:
+
+	php artisan stagefront:credentials
+	Next, you can enable or disable StageFront:
+
+	php artisan stagefront:enable
+	php artisan stagefront:disable
+ 
+
+ 
+ ++++++++++++++++++++++++++++++++++++++++++++
+ composer update --ignore-platform-reqs (ignore version issues)
+ 
+ composer install --ignore-platform-reqs
+ 
+
++++++++++++++++++++++++++++++++++++++++++++++
+SMS center for AM320
+Site-url :- mshastra.com
+
+Username : 20098418
+Password : 2bgzbk
+ 
+++++++++++++++++++++++++++++++++++++++++++++++
+Login details for Multivenders
+	
+Admin
+
+email: bawa_d@ymail.com
+password: 123456
+
+Customer  
+email: customer1@yopmail.com
+password: 123456
+
+Vendor
+email: seller1@yopmail.com
+password: 123456
+
+Deliver
+email: delivermen1@yopmail.com
+password: 123456
+
+modified:   resources/views/frontend/include/header/header.blade.php
+
+http://localhost/multivendors/product/listing   product listing
+
+PRint the Query
+
+DB::enableQueryLog();
+dd(DB::getQueryLog($product));
+
+
+fortec@123 nisha office system password
+
+php artisan db:seed --class=UserSeeder 
+
+php artisan make:seeder UserSeeder   //  create seeder
+
+php artisan migrate:refresh --seed
+
+SEEDERs
+
+create new seder
+php artisan make:seeder LogisticareaSeeder(seeder Name Here)
+
+
+after add new seeder Run this command composer dump-autoload 
+
+
+php artisan db:seed --class=UserSeeder(Run Particular seeder)
+
+php artisan migrate:refresh --seed  ( remove old and add new tables and data)
+
+php artisan make:model Todo -a
+
+php artisan make:migration advertisments
+php artisan migrate --path=database/migrations/2021_06_10_143741_create_vendors_service_center.php
+
+php artisan make:migration vendor_id --table=request_quotation
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+
+http://localhost/multivendors/dashboard/deliver/assign/1  (delivery assign)
+
+
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+Steps to Order Place Flow
+-------------------------
+
+1. Add Product to add to cart Frontend.
+   1. Customer can buy product from product details
+   2. Check order details
+   3. Track your order
+   
+2. Admin Panel can Follow up the order from backed
+  1. Manage Order
+     Orders
+	  Follow up
+
+3. Seller Panel can confirm the product 
+   1. Manage Order
+        Follow up
+	      Confirm order 
+		  (Customer has received confirmed order mail on registered Email ID.)
+		  
+4. .
+    Manage Order 
+       For Deliver Orders
+
+5.  In Deliveryman Panel 
+      Dashboard 
+          Pending orders ( deliveryman set the pickup date)
+		  Delivered(order delivered to the customer )    
+6. Then go to Admin Panel to check the Admin payment	 
+     Admin Earning
+        Earnings	 
+
+7. Then go to Seller Panel to check the Seller payment	
+     Earning
+        Overview
+video link https://www.loom.com/share/d31a23133bc34a6986c84fa0433506e3		
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+Product creation flow
+
+Login as seller
+
+1 Produict flow for backend is 
+  the seller need to request to new product to admin  under the 
+    Manage Product
+	   Request new Product
+	   
+	  NOTE: Product request has been submitted  by the seller , Now admin can view and aprove the request
+      Now go to admin panel.	  
+	   
+2  then in admin panel 	   
+    Manage Product
+	   Product Request would be visible
+	    Admin need to make product action to active to approve the request
+		
+		NOTE: after admin approval , the seller can add stocks	
+
+3  now the seller can add request stoke by
+
+	Manage Product  
+	    Add product
+		
+	the product list in product listing.	
+	
+video link for
+1) Product creation flow
+link:-https://www.loom.com/share/928608abe4af4a0db35fa84308a71589
+
+2) Implemented import functionality for seller section
+link: https://www.loom.com/share/3f3ce696ea224272a3d40f0ef247ddae	
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+
+https://laravel.com/docs/8.x/scheduling    // Cron Jobs inb larval
+
+
+https://laravel.com/docs/8.x/queues  // queues impemention for email/SMS/Notification.
+
+
+
+ShoutMeLoud - Learn Blogging From Experts   /// blogs reference
+
+https://medium.com/justlaravel/search-functionality-in-laravel-a2527282150b   for :-- name based serching reference
+
+
+Route::any('/search',function(){
+    $q = Input::get ( 'q' );
+    $user = User::where('name','LIKE','%'.$q.'%')->orWhere('email','LIKE','%'.$q.'%')->get();
+    if(count($user) > 0)
+        return view('welcome')->withDetails($user)->withQuery ( $q );
+    else return view ('welcome')->withMessage('No Details found. Try to search again !');
+});
+
+
+Route::any('/products',function(){
+    $search_products = Input::get ( 'search_products' );
+    $products = Products::where('name','LIKE','%'.$search_products.'%')->get();
+    if(count($products) > 0)
+        return view('welcome')->withDetails($products)->withQuery ( $search_products );
+    else return view ('welcome')->withMessage('No Details found. Try to search again !');
+});
+
+
+
+___________________________________
+
+car wow filter video
+
+
+https://www.loom.com/share/e74855fec9c2421c8b2e55ba93de93a4
+
+++++++++++++++++++++++++++++++++++++++
+
+
+https://www.itsolutionstuff.com/post/import-and-export-csv-file-in-laravel-58example.html
+
+
+https://makitweb.com/import-csv-data-to-mysql-database-with-laravel/#:~:text=Import%20Data%20%E2%80%93,table%20structure%20for%20inserting%20records.
+
+
++++++++++++++++++++++++++
+
+if product image not showing  any page need to add '/public/'. in controller or view page.
+
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+email and phne is required
+
+-> when email is not filled then phone number is required
+-> when phone_number is not filled then email  is required
+
+https://www.nicesnippets.com/blog/laravel-validation-email-or-phone
+
+
+
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+LOGIN DETAILS FOR Users
+
+ Login details for Admin
+	 email: admin@yopmail.com
+	 pass:  123456
+ 
+ Login details for Seller 
+	 email: car.seller@yopmail.com
+	 pass:  123456
+	 
+	 email: oil.seller@yopmail.com
+	 pass: 123456
+	 
+	 email: tires.seller@yopmail.com
+	 pass: 123456
+	 
+	 email: battery.seller@yopmail.com
+	 pass: 123456
+ 
+ Login details for Customer 
+	 email: customer@yopmail.com
+	 pass:  123456
+	 
+ Login details for Corporate Customer 
+	 email: corporate.customer@yopmail.com
+	 pass:  123456	 
+	 
+ Login details for Corporate Customer 
+	 email: deliver@yopmail.com
+	 pass:  123456	 
+++++++++++++++++++++++++++++++++++++++++++++++++
+
+automaic admin panel in laravel tutorial link:- 
+https://www.itsolutionstuff.com/post/laravel-5-create-quick-backend-admin-panel-tutorialexample.html 
+
+++++++++++++++++++++++++++++++++++++++++++++
+Gmail Account Details
+==========
+
+fortec.nisha@gmail.com
+fortec@123#
+
+Skype Account Details
+=========
+
+fortec.nisha@gmail.com
+fortec@123#	 
+
+pm.fortecsolution@gmail.com
+
+
+______________________________________
+
+https://voyager.devdojo.com/
+
+
+___________________________________
+
+$current_url =  Request::fullUrl();
+$uri_parts = explode('&', $current_url);
+$request_url = end($uri_parts);
+echo $request_url;
+$Last_variable = explode('=', $request_url);
+$Last_variable_url = end($Last_variable);
+echo $Last_variable_url;
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Request a quotation video
+
+1)Login with customer
+	  1) Go to Single product page and click on Request a Quotation.
+	  2) Enter message and submit request.
+	  3) request email send to vendor or Admin.
+	  
+	  checking the email email send to vendor 
+	  emails end to vendor successfully.
+
+2) Then Login with vendor
+
+   1) Manage Product
+        Request quotation  
+           Check Request quotation listing
+		      Click on approve request
+			 
+			 
+ after submit the coupon sending approved request to user with coupen code.
+ new checking the email for coupen code.
+
+
+3) Go to customer 
+    Add to cart product and apply coupon code in checkout.
+	now checking invoice email order is placed.
+	
+	
+first video
+https://www.loom.com/share/54e15009e3554f5487ab44f8a14c5fcd
+second part
+https://www.loom.com/share/d289edc8872944168831b4da819fadb0
+
+			      
+   ___________________________________
+   Google map
+   
+   https://www.tutorialspoint.com/google_maps/google_maps_markers.htm
+   
+   
+   ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+   
+   added autocomplete 
+   https://www.webslesson.info/2018/06/ajax-autocomplete-textbox-in-laravel-using-jquery.html
+   
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Add Brands Description and Category Description for Menu section
+
+Login as Admin
+
+1) Brands Description
+      Manage Product
+	     Brands 
+		    Add Brand 
+			
+2) Login as Seller
+
+      a) Manage Product
+	       Brands 
+		     Request new Brand 
+
+Add Category Description for Menu
+
+Login as Admin
+
+1) Manage Product
+	     Categories 
+		    Click on Parent Categories 
+			Click on Sub-Categories 
+			click on edit action and update the Category description.	
+2) Login as Seller
+
+      a) Manage Product
+	       Brands 
+		     Request new Brand 
+			 
+			 
+			 
+			 ++++++++++++++++++++++++++
+			 
+			 
+			 DB_DATABASE="dialasa_multivendors"
+DB_USERNAME="dialasa_multivendors_user"
+DB_PASSWORD="lqf5TZM(eZJQ"
+=================================================================================================================
+LIVE SITE NEW PASSWORDS
+
+url: http://diala.com.sa/
+username: AM320
+Password: AM320@123#
+
+
+ADMIN login details:-
+	email: admin@yopmail.com
+	pass: Admin@123#
+
+Seller login details:-
+1)	Car seller
+	email: car.seller@yopmail.com
+	pass: Carseller@123#
+
+2)	Oil seller
+	email: oil.seller@yopmail.com
+	pass: Oilseller@123#
+	
+3)  Tires Seller	
+    email: tires.seller@yopmail.com
+	pass: Sellers@123#
+	
+4)  Battery Seller	
+    email: battery.seller@yopmail.com
+	pass: Sellers@123#
+	
+Delivery Man login details:-
+1)  Delivery Man	
+    email: deliver@yopmail.com	
+	pass: Deliver@123#
+	
+Customer login details:-
+1)  email: customer@yopmail.com	
+	pass: Cust@123#	
+	
+Database password also changed
+New database password: Aa1Z]u0N&LkE
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+fix the pagination on same position
+ console.log(" Top "+jQuery(".cct-pagination").offset().top);
+var footer = jQuery('.cct-footer-form').innerHeight();
+console.log("Footer = "+ footer);
+    
+    $( document ).ajaxComplete(function() {
+		jQuery('html, body').animate({
+        scrollTop: jQuery(".cct-pagination").offset().top - footer
+},1);  });
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+NewAC@1221#

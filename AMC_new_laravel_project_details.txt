@@ -1,0 +1,63 @@
+--Protocole Server---
+http://protocolsolution.com/cpanel
+
+Username: k06du1pno2w3
+Password: Protocol@1221#
+
+------------------------
+Paypal development login details
+
+email: tarun15malhotra@gmail.com
+password: a16691669
+------------------------
+AMC-Management Database details
+
+Pass : kUDDS!g%l18t
+User: laravel_nisha
+Database: laravel_nisha
+Host : localhost
+
++++++++++++++++++++++++++
+Winscp and putty details
+Host : 184.168.103.93
+User : k06du1pno2w3
+Pass : Fortec@123#
+
+++++++++++++++++++++++
+Project details:
+Frontend:
+http://amc-management.protocolsolution.com/
+email: customer@yopmail.com
+password:12345678
+
+Backend:
+
+http://amc-management.protocolsolution.com/admin/login
+ADMIN:-
+email: admin@admin.com
+password:password
+
+STAFF:-
+http://amc-management.protocolsolution.com/admin/login
+email: fortec.nisha@gmail.com
+password: 12345678
+
+storage-link ---- ROUTE
+
+http://amc-management.protocolsolution.com/storage-link
+
+
+Clear Cache routes-link ---- ROUTE
+http://amc-management.protocolsolution.com/clear-cache
+
+
+
+widgets
+
+/00DIt92Rg2nb4qHiTK7McGgaiitaYN9vF1csRDQm.pdf
+
+
+https://www.google.com/search?q=add+widget+in+voyager+in+laravel&rlz=1C1CHBF_enIN918IN918&oq=add+widget+in+voyager+in+laravel&aqs=chrome..69i57j33i160.16280j0j7&sourceid=chrome&ie=UTF-8#kpvalbx=_PaDVYKHhNt3G4-EPtf6PyA015
+
+Click on button below to view all Products.
+

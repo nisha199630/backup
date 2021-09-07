@@ -1,0 +1,86 @@
+himikon site deatils:
+http://localhost/ecommerce
+
+ADmin login details
+ username: admin@gmail.com
+ password: admin@123#
+ 
+Vendor login details
+
+username: vendor@gmail.com
+pass: 123456
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+cpanel 
+
+https://cpanel.sellspace.co.in/
+
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Live server details:
+
+Deepak client serve details to upload the script
+
+Username:- Sellspace
+Pwd:- sellspace@17
+
+godaddy
+
+ecommerce 
+________________
+https://myh.godaddy.com/?prog_id=GoDaddy&pl_id=1#/hosting/cpanel/account/c252415b-fad4-11eb-8226-3417ebe724ff
+
+yapppq0jl2u6
+********_______________________
+
+sir, i have uploaded the code in server.
+please find the login details for admin, vendor and user
+
+ADmin login details
+https://sellspace.co.in/admin/login
+ username: admin@gmail.com
+ password: admin@123#
+
+Vendor login details
+https://sellspace.co.in
+username: vendor@gmail.com
+pass: 123456
+
+User login details
+https://sellspace.co.in
+username: fortec.nisha@gmail.com
+pass: 123456
+
+
+
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+ 
+prefix(  -- to check admin, user and vendor grooup in web.php
+
+
+https://www.websiteplanet.com/webtools/sharelink/
+
+https://www.nicesnippets.com/blog/how-to-add-share-social-media-button-in-laravel
+
+https://smallseotools.com/open-graph-generator/
+
+
+https://www.facebook.com/sharer/sharer.php?u=http://ecommerce.himikon.com/
+
+mailto:info@example.com?&subject=&cc=&bcc=&body=https://www.facebook.com/%0A
+
+
+________________________________________________________________________________
+
+Referal code
+https://github.com/questocat/laravel-referral
+
+++++++++++++++++++++++++++++++++++++++++++++++++++
+
+himikon.com/cpanel
+Username : uzi0nww7t33y
+Password : Himikon@174021
+
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++

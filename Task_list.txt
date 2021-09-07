@@ -1,0 +1,1943 @@
+Customer Checkout page add scroller for the order list
+http://localhost/multivendors/checkout
+
+multiple order list design fixes
+http://localhost/multivendors/public/order/details/20218705
+
+Tracking Order.... add active class for status
+http://localhost/multivendors/public/tracking/order/20217640
+
+
+add icons for track order
+http://localhost/multivendors/public/tracking/order/20219660
+
+frontend menu header for
+buy a car
+status
+new
+col-md-8 col-md-offset-2
+
+
+div.pp_default .pp_nav {
+    display: none;
+}
+Task List
+Hello sir,
+Date: 15/03/2021
+Project name: AM230
+Fixed zoom image modal for Product listing page(car)
+Fixed zoom image modal for Product listing page(oil)
+Fixed zoom image modal for Product listing page(battery)
+Fixed zoom image modal for Product listing page(tires)
+Fixed unsubscribe functionlity for customer end.
+Dynamic all seller listing for Index page.
+created bout us page using dummy content.
+Dynamic Find my vehicle filers  dropdowns
+   (i) min and max year and body type
+   (ii) make, model, price, min and max year, min and mix year, transmisstion and Body color.
+   
+   
+   
+   
+Task List
+Hello sir,
+Date: 16/03/2021
+Project name: AM230
+Added Equipemnt and boots_space as per fronted find the vehicle filter(Cretae, Edit and delete) for admin role
+added equipment table and added migrate file.
+Dynamic the body-type catergories as per backend categories and shown in frontend.
+Dynamic the equipments and shown in frontend find my vehicle filter.
+Dynamic the boots speed and shown in frontend find my vehicle filter.
+updated the product_type in BRANDS for (create and update)for Admin and seller end
+updated seeders as per brand database updated
+
+
+
+Task List
+Hello sir,
+Date: 17/03/2021
+Project name: AM230
+Created seeder for Equipemnt and boots_space as per fronted find the vehicle filter(added data as shown in frontend)
+updated Brands seeders as per added product type in brands table.
+design fixes for find my filter in home page.
+added brands logo in find my vehicle filter on frontend and fix design.
+cretaed search file for car filtes
+added country and states for find my vehicle filter 
+created models, migrations for country and states 
+created seeders for country and states and added data for all county and states.
+dynamic the states as per country select.
+added equipemnts and boots_space in variants and updated seeder as well.
+
+
+
+
+Task List
+Hello sir,
+Date: 18/03/2021
+Project name: AM230
+Added Equipemnt and boots_space in varints
+updated product_varaint seeders as per updated products
+dynamic the fule and diesel as per ther trasnmisstion
+added search based on brands and categories(body-type)
+deasign fixed for find my vehicle search
+Dynamic the boots speed and shown in frontend find my vehicle filter.
+updated the product_type in BRANDS for (create and update)for Admin and seller end
+updated seeders as per brand database updated
+
+Task List
+Hello sir,
+Date: 19/03/2021
+Project name: AM230
+Added Monthly_EmI as in fronted find the vehicle filter(Create, Edit and delete) for admin role
+added Monthly_EmI table and added migrate file.
+cretaed seeders for Monthly_EmI and updated as well in product_varint seeders
+implemted search based on Body-type, brands, equipments and boots_space.
+updated logo and favicon for AM230
+fixed design issue for fiond my vehicle search in homepage
+dynamic the monthly price and cash tab in find my vehicle in frontend
+dynamic the value of cash and monthly tab on homepage
+added Monthly_EmI price data and checked updated , deleted functionlity as well.
+fixed design for product_searching view file.
+added pagination in product_searching page in frontend. 
+https://www.loom.com/share/e74855fec9c2421c8b2e55ba93de93a4
+  
+  
+Task List
+Hello sir,
+Date: 22/03/2021
+Project name: AM230
+Added Monthly_EmI Seeders and updated monthy_emi price values
+fixed menu for Monthly_EmI for admin section.
+moved find my vehicle search functionality to live site.
+find my vehicle functionlity changed pop to page.
+fixed design find my vehicle as per new changes.
+implemented search as per brands, catergories and price.
+updated Monthly_EmI price data and checked updated , deleted functionlity as well.
+deign fixed for Body type images for find my vehicles search.
+
+Task List
+Hello sir,
+Date: 23/03/2021
+Project name: AM230
+Implemented Price_Range as per clent requirement and added filter based on cash price range(min and max)
+fixed issues for homepage product price after adding new product.
+fixed issues for creating product at vendor section.
+updated changes for creating new product at seller section in backend.
+updated changes for creating new product at admin section in backend.
+added varients and unit validations for create product and update product admin section in backend.
+added varients and unit validations for create product seller section in backend.
+updated vendor products listing based on find my vehicle filter in frontend.
+updated varients seeders as per adding equipemnts and boots_space in backend.
+
+
+
+Task List
+Hello sir,
+Date: 24/03/2021
+Project name: AM230
+Implemented Top search based on (Name, tags, slug) for car listing
+Implemented Top search based on (Name, tags, slug) for oil listing
+Implemented Top search based on (Name, tags, slug) for tires listing
+Implemented Top search based on (Name, tags, slug) for battery listing
+added varints and wishlist option in find Top search based on (Name, tags, slug).
+Added validation for varints and units for Edit product for Admin section.
+Fixed alignment for find my vehicle multistep page.
+added varints and wishlist option in find my_vehicle_serach_listing page.
+added request-my-info to both find-my-vehicle-filter and Top search based on (Name, tags, slug)
+moved searcing and validation functionly to live.
+fixed product link for request-my-info prooduct in frontend.
+
+
+
+Hello sir,
+Task List
+Date: 25/03/2021
+Project name: AM230
+Dynamic product details page on click product name in product listing page(car,oil,battery and tires)
+Dynamic product details page on click product name in both product search (find my vehicle and search based on name)
+Implemented Related products listing on Product details page.
+show only approved products by admin in product list (updated all product list)
+Added EMI option while adding product_price in Upload Product form for seller section
+updated EMI option adding product_price in Upload Product form for seller section
+moved dynamic product details pages and related products listing in product details page.
+Resolved Confilct for variants in frontend and also updated seeders as well
+updated seeders as per added Emi option in vendor_product_table.
+
+Hello sir,
+Task List
+Date: 26/03/2021
+Project name: AM230
+Fixed Home pages latest products listing shown only approved products from admin and added price by seller.
+Added SKU check for backend product-listing admin and seller section	
+fixed product_details link in sendToFrinend mail in frontend.
+fixed seller shop availability for battery product in frontend.
+removed extra page from find-my-vehicle-filter in  homepage.
+started with products comapre funtionality on frontend.
+added compare button in product listing page.
+fixed design as per added compare button and added in header for compare products
+
+
+
+
+http://localhost/originalmulti/public/comparison?products%5B%5D=%5B1969%2C1962%2C1963%5D   compare -link
+
+
+
+Hello sir,
+Task List
+Date: 30/03/2021
+Project name: AM230
+Implemented Compare multiple products
+added limit for maximum 3 products will be add for comparison
+added validations to remove duplicate products  for comparison filter.
+fixed design for menu to add compare icon in header.
+created comparison view in frontend and fixed design as per products added for comparision. 
+
+
+
+
+
+Hello ,
+Task List
+Date: 31/03/2021
+Project name: AM320
+Implemented Compare multiple products functionality for oil, battery and tires.
+fixed design for product_listing page for compare products
+moved compare product functionality and search based on (name,tags,slug)
+fixed comparison view in frontend and fixed design as per products added for comparison.
+video link for compare multiple products
+https://www.loom.com/share/1438a0432ee34a8b8d67cdb258f46a5e
+
+
+Hello ,
+Task List
+Date: 01/04/2021
+Project name: AM320
+fixed total product amount for add to cart functionality in Compare products for guest, customer and coporate customer role.
+fixed remove products from Add-to-cart for guest user, customer and coporate customer role.
+fixed design for product_listing page for compare products
+checking flow to import bulk products
+implement import product for only one table using csv file.
+
+
+Hello ,
+Task List
+Date: 02/04/2021
+Project name: AM320
+created page for add import excel foe seller section.
+implement import dummy products using statics values for products tables using csv file.
+
+
+Hello,
+Task List
+Date: 05/04/2021
+Project name: AM320
+Added Bulk Products Upload menu in seller section.
+added required validation for upload option in bulk product upload form.
+Implemented Import product functionlity with dynamic data for products tables
+Implemented Import product variants as per added products and send resquest to approval for product publish.
+added two dummy products with dummy data for battery products.
+created video for Import products for seller section. 
+added condtion for related product price in product-details-page.
+video Link:- https://www.loom.com/share/3f3ce696ea224272a3d40f0ef247ddae
+
+
+
+
+
+
+Good Evening !
+Greeting of the day ! 
+
+ 
+Task List
+Date: 06/04/2021
+Project name: AM320
+Added Import Image, meta image and multiple images for Products in csv.
+updated images path and url for backend (create product, update product, product listing , requested  prdocut-listing)for Admin section.
+updated images path and url for backend (create product, update product, product listing)for Seller section.
+updated images path and url for frontend producut-listing-page(car,battery,oil and tires).
+fixed images path and url as per csv upload products for search by (name and tags)in frontend.
+added two dummy products with Multiple Images, variants and prosuct details for battery.
+
+
+
+
+Good Evening !
+Greeting of the day ! 
+
+Task List
+Date: 07/04/2021
+Project name: AM320
+Added pdf for upload-mannul for all type of products.
+Added required validaions for product categories and variants for seller section.
+Added Bulk Products Upload menu in Admin section.
+Implemented Import functionliaty for Admin section.
+Added required validaions for product categories and variants for admin section.
+added three dummy products with Multiple Images, variants and product details for car, battery and oil.
+
+
+Task List
+Date: 08/04/2021
+Project name: AM320
+Implemented vendor Registration based on product category.
+updated create products , request products, update products as per added Product category in vendor table.
+updated user seeder, vendor seeder, user_has_groups seeders, vendor product seeders.
+added check for Import functionality as per car, oil , battery and tires products for seller section.
+updated vendor table migrations and seeder as per added product_category.
+design fixes for vendor registration
+added product category in vendor product registration page.
+updated brands and categories as per added product_category.
+
+Task List
+Date: 09/04/2021
+Project name: AM320
+Implemented vendor Registration based on product category.
+updated create products , request products, update products as per added Product category in vendor table.
+updated user seeder, vendor seeder, user_has_groups seeders, vendor product seeders.
+added check for Import functionality as per car, oil , battery and tires products for seller section.
+updated vendor table migrations and seeder as per added product_category.
+design fixes for vendor registration
+added product category in vendor product registration page.
+updated brands and categories as per added product_category.
+
+
+Task List
+Date: 09/04/2021
+Project name: AM320
+Added sample csv for car products, oil products, tires product and battery products for seller section.
+added validation foe seller can import only products as per assigned product category.
+added success and failed message for import produts for seller and admin section.
+implemented validations for seller and admin can usplod only csv extension.
+fixed design for import products for seller section.
+created car seller , oil seller, battery seller and tires seller tested with import functionality.
+updated querry for car product listing.
+seller can request for new brand and category as per assigned product category like(car,oil,battery and tires).
+updated user seeder , vendor seeder, user_has_groups seeders, vendor product seeders as per added product category for seller.
+
+
+
+Task List
+Date: 13/04/2021
+Project name: AM320
+added validation for import products (product_category, parent_name,child_name, product_name).
+Fixed csv format for for seller section.
+implemented validations for seller and admin can upload only csv extension.
+added dropdown option for admin to select product category.
+moved domain diala.sa to diala.com.sa 
+
+url:http://diala.com.sa/
+Admin login details:
+email: admin@yopmail.com
+pass: 123456
+
+seller login details:
+1) car seller
+email: car.seller@yopmail.com
+pass: 123456
+2) oil seller
+email: oil.seller@yopmail.com
+pass: 123456
+3) tires seller
+email:tires.seller@yopmail.com
+pass: 123456
+4) Battery seller
+email :battery.seller@yopmail.com
+pass: 1234565
+
+
+Implemented import funcationlity for admin section using car, battery, tires and oil csv and implemented sample csv as per selected dropdown
+
+
+
+
+Task List
+Date: 14/04/2021
+Project name: AM320
+Implemented import funcationality for admin section using car, battery, tires and oil csv
+implemented sample csv as per selected dropdown like(car, battery, tires and oil csv)
+fixed design for dropdown and export sample csv button and fixed design for upload csv input.
+fixed tires csv for admin and seller section.
+updated user seeder , vendor seeder, user_has_groups seeders, vendor_product_seeders.
+added validation foe admin can import only products as per selected product category in dropdown.
+
+
+
+Good Evening !
+Greeting of the day ! 
+
+Task List
+Date: 15/04/2021
+Project name: AM320
+Fixed sample csv as per selected dropdown like(car, battery, tires and oil csv)
+and removed cookie values on refresh for product category dropdown.
+moved admin csv code to live server.
+fixed design for dropdown and export sample csv button and fixed design for upload csv input.
+Implemented filters for car, oil, battery and tires in new template(Allaia).
+fixed design for header as per new template in index page(homepage).
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+Good Evening !
+Greeting of the day ! 
+
+Task List
+Date: 19/04/2021
+Project name: AM320
+Implemented mega-menu header in new template with dynamic and dummy data.
+Dynamic the car,oil,batter and tires filters as per categories.
+dynamic the compare product, add-to-cart products,  wishlist product .
+Dynamic the my-account options as per guest user and login user.
+fixed design for megamenu header for new templete.
+fixed alignment for wishlist,compare,add-to-cart and account-setting option icons in new header.
+added css and js as per added new temlate.
+dynamic search as per tags and products-name in header.
+video link for mega-menu 
+https://www.loom.com/share/2e044883518e44ba8175c301aee61e82
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+http://www.ansonika.com/allaia/
+
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+Good Evening !
+Greeting of the day ! 
+
+Task List
+Date: 20/04/2021
+Project name: AM320
+Implemented mega-menu header in new template with dynamic and dummy data.
+Implemented find my vehicle now in new header.
+Implemented footer and slider as per new template in frontend.
+Fixed design as per added header and footer in frontend.
+Implemented new header and footer for all pages in frontend.
+dynamic search as per tags and products-name in new template header.
+updated text for find my vehicle as per client feedback.
+
+
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+http://www.ansonika.com/allaia/
+
+
+
+Good Evening !
+Greeting of the day ! 
+
+Task List
+Date: 22/04/2021
+Project name: AM320
+Implemented mega-menu header in new template with dynamic and dummy data.
+Implemented find my vehicle now in new header.
+Implemented footer and slider as per new template in frontend.
+Fixed design as per added header and footer in frontend.
+Implemented new header and footer for all pages in frontend.
+dynamic search as per tags and products-name in new template header.
+updated text for find my vehicle as per client feedback.
+
+Good Evening !
+Greeting of the day !
+
+Task List
+Date: 21/04/2021
+Project name: AM320
+setup project and implemented migrations and setup git.
+Implemented Index page(slider) as per Allaia template.
+Implemented index page(Images and links for all types products like Battery,car, oil and tires).
+Implemented all brand listing as per Allaia template.
+updated latest news as per new template.
+Implemented footer design as per new template and dynamic pages from backend.
+implemented wishlist's- listing as per asos site reference and added icon wishlist's-icon in header.
+please find the video for header, index-page and footer.
+https://www.loom.com/share/1a09259a7d3f449d9c003fa78da33626
+
+
+
+Good Evening !
+Greeting of the day !
+
+Task List
+Date: 22/04/2021
+Project name: AM320
+Fixed Index page(slider) as per Allaia template and display text on slider.
+fixed design for wishlist-listing page as per template reference.
+fixed brands carousel for index page as per template
+Updated product-details page reserve-a-car text and Request-a-quotation as per client feedback.
+updated variants as per client feedback.
+removed headquater and branches location from seller signup page as per client feedback.
+updated menu color as per client feedback.
+
+
+
+Good Evening !
+Greeting of the day !
+
+Task List
+Date: 23/04/2021
+Project name: AM320
+Implemented Login page design as per Theame.
+Added dropdown as per multiper registartion page (customer registartion, vendor registartion, corporate customer registration and deliverman registration)
+fixed seller carousel for index page.
+Fixed product-details page variants and units as per your feedback.
+Fixed product-detail page refine page search design.
+fixed all pages popupa s per added new template.
+removed headquater and branches location from seller signup page as per client feedback.
+updated menu color as per client feedback.
+please find the video for new headeer , footer and index page, login and register.
+https://www.loom.com/share/6b52b95e22d54e3984a908de73383484
+
+
+
+Good Evening !
+Greeting of the day !
+
+Task List
+Date: 26/04/2021
+Project name: AM320
+Implemented car Product listing page as per template
+updated filters design for grid-view-listing and list-view-listing as per template.
+Implemented oil product-listing and fileters as per template.
+Implemented Tires product-listing and fileters as per template.
+Implemented Battery product-listing and fileters as per template.
+Dynamic the search button as per selected oil, battery and tires in header.
+Added follow us links and term and conditions , privecy links in footer as per allaia template.
+updated send enqyiry form as per template design.
+Dynamic banner image url for index page and added add url option in backend for main_sliders inside Promotions for Admin section.
+please find the video for header menu, product-listing filters as per Grid and List view , footer.
+https://www.loom.com/share/0823be6a7f424ca3a9553e92caf56601
+
+
+
+
+Good Evening !
+Greeting of the day !
+
+Task List
+Date: 27/04/2021
+Project name: AM320
+Implemented single product page desig as per Allaia template for all type of products (car, battery, oil and tires)
+Fixed the search button as per selected oil, battery and tires in header.
+fixed checkout page design and view_cart page design as per template.
+Updated the wishlist page design as per reference site as per Asos.
+Updated related producr slider as per Allaia template on signle product listing page.
+Fixed icons and text(Add-to-cart, add-to-wishlist, add-to-comparision) in related products.
+Updated Product variants design for product_details page.
+Added required validation for search product as per Tags and product_name.
+Please find the video link for single product page, checkout page, view_cart page 
+https://www.loom.com/share/1dc18a1e14d846cf84589bd79e6fb641
+
+
+Good Evening!
+Greeting of the day!
+
+Task List
+Date: 28/04/2021
+Project name: AM320
+fixed design for Montly and cash tab for What’s your budget section in find my vehicle now.
+updated body type images(sedan,compact,van,pickup,crossover,commercial van) for find my vehicle now and  new car page as per your feedback.
+updated checkout page as per Allaia template.
+updated checkout success page as per Allaia template.
+Updated Product features design for product_details page as per Allaia template.
+updated design for Track order as per Allaia template.
+fixed design for checkout and guest-checkout as per new allaia template.
+
+
+
+
+
+
+
+
+
+
+Product name    Castrol Magnatec 
+
+Short Description
+
+Full synthetic engine oil providing Non-Stop protection from every start, even for vehicles with modern stop-start technology
+DUALOCK Technology delivers 50% better protection from warm-up1 and stop-start2 wear
+
+
+Big Description
+
+Full synthetic engine oil providing Non-Stop protection from every start, even for vehicles with modern stop-start technology
+DUALOCK Technology delivers 50% better protection from warm-up1 and stop-start2 wear
+
+Promotion Video Url
+
+https://www.youtube.com/watch?v=oFwUmFF5YUs
+
+
+Meta title
+Castrol Magnatec
+
+
+Meta Desc
+Castrol Magnatec
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+Good Evening!
+Greeting of the day!
+
+Task List
+Date: 30/04/2021
+Project name: AM320
+Updated Logo image as per Asos sit reference.
+fixed tab for single product page in overview and specifications.
+Aligned sub menu for header as per asos site reference.
+Fixed products details images for homepage
+Updated tittle for brands slider as per Allaia template.
+fixed design for footer
+updated layout for find my vehicle search form
+updated tracker image for Track order and updated dewsig for track order button(confirmed,delivered,dispached)
+moved all templete design to live site.
+
+Good Evening!
+Greeting of the day!
+Task List
+Date: 18/05/2021
+Project name: AM320
+updated body-type images for find my vehicle as per your feedback
+added more filter option for oil and added vechicle model, make, year for oil filters.
+added more filter option for tires and added vechicle model, make, year for oil filters.
+added make, modall and year_built varaints for oil and tires product to add more filters.
+removed Feature option in buy_a_car from header.
+updated product_varaint seeder and categories seeders as per removed Feature option in buy_a_car category.
+Created Advertisement table, modal and run migrations.
+added Advertisement menu for backend in Admin section.
+
+
+
+Good Evening!
+Greeting of the day!
+Task List
+Date: 19/05/2021
+Project name: AM320
+Added radio button for select all Equipments section in Find my vehicle filter as per PDF feedback.
+Updated body-type images(comapct and commercial van) for find my vehicle as per PDF feedback.
+updated category seeder as per added images in categories and sub-categories in category Group in backend for admin section.
+Dynamic the short-description of product in list view for all product listing page(oil,car,battery and tires) and filter pages.
+please find the video for oil and tires filters
+https://www.loom.com/share/78bbe555252d418e9942c77a563a953d
+
+
+Good Evening!
+Greeting of the day!
+Task List
+Date: 20/05/2021
+Project name: AM320
+Added Product review functionality after product delived.
+Implemented product reviews in Single Product page.
+fixed design for total review in single product page.
+fixed logo design in invoice mail during order placed.
+checked sms for user registartion using mshastra.com
+fixed design for review popup and button in customer order details.
+
+
+
+Good Evening!
+Greeting of the day!
+Task List
+Date: 21/05/2021
+Project name: AM320
+Added technical support page in frontend and added implemented send email functionality for the admin.
+Fixed sms curl for registartion process.
+updated sms format and encode the sms as per mshastra.com.
+resolved spacing issue in sms during registartion process.
+started with advertisement section in backend and create table, database migrations. 
+added Advertisement menu for backend in Admin section.
+
+Today billig completed: 6:20 hours
+
+
+ 
+
+Good Evening!
+Greeting of the day!
+Task List
+Date: 24/05/2021
+Project name: AM320
+Implemented Advertisement panel in backend for Admin panel.
+Implemented create advertisemnet, edit advertisement and delete advertisement from backend for admin panel.
+Added required validations for add and edit form for advertisement.
+fixed design for backend menu and listing page for advertisement.
+Added seeder for advertisement table.
+Dynamic the advertisment images and links as per added advertisement in backend.
+
+
+
+Good Evening!
+Greeting of the day!
+Task List
+Date: 25/05/2021
+Project name: AM320
+Dynamic the Special offers for BUY a car in Mega menu.
+fixed design for dynamic advertisements images and link.
+Dynamic the NewIn category in mega menu 
+added the product link in frontend for all products(car, oil, tires and battery).
+checked customer Registration and product created flow in live site.
+please find the video for Customer registartion 
+https://www.loom.com/share/6e724cf827214b7fbca92b2df9e69270
+
+Product creation flow
+https://www.loom.com/share/2e6be6c3cf23424ea26ba9d55538286d
+https://www.loom.com/share/3764aa11a730499eb64a03750143c53a
+
+
+
+
+
+Good Evening!
+Greeting of the day!
+Task List
+Date: 26/05/2021
+Project name: AM320
+Implemented the vendor listing as per product_category in Vensors menu(Buy a car).
+implemented the fileters as per vendor product listing and updated existing filters.
+Implemented the Price mega menu as per Pdf feedback
+added fileters as per price(All, low-to-high, high-to-low).
+updated Year_bulit and Status sub-menus as per pdf feedback.
+
+
+
+
+Good Evening!
+Greeting of the day!
+Task List
+Date: 27/05/2021
+Project name: AM320
+Implemented the fileters for year_built old-to-new and new-to-old.
+added Rage_input in Rage mega mega menu for year_built.
+fixed design for year built rage in menu.
+fixed filtes as per added vendor_id.
+implemented the fileters as per vendor product listing and make listing in Vendor Mega menu.
+implemented Status fileters for (Any and new products).
+
+Today billig completed: 8:20 hours
+
+
+ 
+
+Good Evening!
+Greeting of the day!
+Task List
+Date: 28/05/2021
+Project name: AM320
+Updated add Advertsiments and edtit advertisements form in backend foe admin section.
+updated advertisement migration and advertisment seeders for advertisment images.
+Fixed design for mega-menu for for BUY-A_CAR section.
+fixed Images alignment as per add images from backend.
+Implemented filters as per based on Year and Status.
+added limit for advertisement images in New-in and Vendors section.
+completed Status fileters for (Any and new products).
+
+Today billig completed: 2:00 hours
+
+
+
+Add Variants in backend
+https://www.loom.com/share/8b5023d4434a431492c820178d892acf
+
+Add Units and varaints in backend
+https://www.loom.com/share/1391807a77054dbdb730adaa01661b61
+
+
+
+
+Good Evening!
+Greeting of the day!
+Task List
+Date: 31/05/2021
+Project name: AM320
+Implemented Year_bulit Range filter in Mega-menu
+Implemented validations for 6 advertisement images display on frontend.
+added validations for add and updated advertisment for 6 advertisment limit for all parent category.
+Added copy product button in single product page in frontend.
+updated Advertisement seeder for Images and product link.
+Fixed design for backend add Advertisment for edit Advertisment form.
+fixed menu for single product page in frontend.
+started with Request Quatation in Single product page.
+
+
+Good Evening!
+Greeting of the day!
+Task List
+Date: 01/06/2021
+Project name: AM320
+Resolved Design issue for header in search form and single product form.
+Resolved Import Sample csv issue for vendor section.
+Updated header searching as per based on (Special offer , NewIn , vendors, Make).
+Updated limit for backend advertisment fot admin section.
+moved all advertisment,reviews product, and Buy-a-car filter as per your feedback.
+Added advertisments for menu in live site.
+created send request quotation form in Single product form.
+please find the video for Add advertisment and make active advertisment in frontend
+https://www.loom.com/share/c96540f69b2346249c05dd3947db6229
+
+please find the video for Deactive advertisment for fronetend 
+https://www.loom.com/share/cd23abc4111540e6a0575416209c40ac
+
+
+Added form for send request quotation and added email functionliy created migrations , implemented coupen for admin and vendor added lising for request quotation for both admin and vendor 
+
+
+Good Evening!
+Greeting of the day!
+Task List
+Date: 02/06/2021
+Project name: AM320
+Added form for Send Request Quotation in single product page.
+implemented send email to admin and vendor as per customer send Request Quotation
+Implemented Request quotation listing for both admin and vendor section.
+Implemented Add coupon form for both admin and vendor section.
+Implemented disapprove request quotation and added send email to user as per request status.
+updated permission for coupons for vendor section.
+Design fixed for success message after submit form.
+Added Request quotation menu for backend in Admin and vendor section.
+
+
+Good Evening!
+Greeting of the day!
+Task List
+Date: 03/06/2021
+Project name: AM320
+Implemented Lising for Request Quotations as per Vendor and admin section and show requests count in menu bar for both admin and vendor.
+Fixed design for Request Quotations listing for both role.
+Implemented Approve Request Quotations and generate coupon for requested used.
+Approved Request Quotations implemented for both vendor and admin section
+Quotations send coupon code through email to customer while approving the product for both sections admin and vendor.
+Implemented Disapproved request quotation for admin and vendor.
+updated coupon and request_quotation migrations as per vendor and product_id. 
+Fixed Year_build and Price filter for Product listing(CAR) as pert menu.
+
+Today billing completed 8:10 hours
+
+
+Good Evening!
+Greeting of the day!
+Task List
+Date: 04/06/2021
+Project name: AM320
+header and mega menu fixed for wider screen resolution on local and live both.
+Add brands description in Brand tables for admin section.
+updated brands migration and brands seeders as per added description.
+Implemented Make description when make selected from Mega menu.
+Implemented search filter when select Audi from Make then hide the make secrh fileter in Product lising page
+Fixed design for related product Images for Single Product page.
+Fixed price and year filter as per menu filer in product listing page for Car.
+When user select the name of audi from Make tab then during the listing of results make search tab need to hide from user - DONE for CAR 
+
+Today billing completed 8:00 hours
+ 
+ 
+ 
+Good Evening!
+Greeting of the day!
+Task List
+Date: 07/06/2021
+Project name: AM320
+Implemented Coupon code functionliaty for checkout page in frontend for both users Auth and Guest user.
+Completed request a quotation for seller , admin and customer section.
+fixed design for related products Images on single product listing page.
+fixed design for Makes description in product listing page in frontend.
+Added Read more and read less button in Make description in Product listing page.
+
+Today billing completed 6:00 hours
+
+
+Good Evening!
+Greeting of the day!
+Task List
+Date: 08/06/2021
+Project name: AM320
+Fixed design for frontend homepage top product alignment for all screen resolutions
+Fixed design for Brand description same as assos reference for Car products Listing.
+Implemented Brands description for vendor section in Request for brand.
+Implemented Request a quotation for Oil,tires and battery products.
+Added reject quotation for all products(Buy-a-car, oil, tires, battery)for vendor section
+added listing the rejected quotation also  in requested quotation form fior vendor section.
+added validation for coupon for checkout page.
+please find the video for Request quotation flow.
+https://www.loom.com/share/54e15009e3554f5487ab44f8a14c5fcd
+second part
+https://www.loom.com/share/d289edc8872944168831b4da819fadb0
+
+Today billing completed 2:30 hours
+
+
+Good Evening!
+Greeting of the day!
+Task List
+Date: 09/06/2021
+Project name: AM320
+Request Quotation functionality move on live
+make Description in Car product listing move to live
+checked request quotation and Frontend filters live site.
+Updated make description on live 
+Fixed year_build issue on live site and added one product for checking request quotation funcationality
+Started with Add service center in frontend.
+Added Service center Confermation message in vendor dashboard after login.
+
+
+Good Evening!
+Greeting of the day!
+Task List
+Date: 10/06/2021
+Project name: AM320
+Added services confirmation after subscription for vendors
+added services center table and migartions for vendor_services_centers
+Dynamic the Special offers for Oil mega-menu and add search filter as per Brands.
+working on adding Google map Api for adding service center for vendors
+Note: for google map integration you have to provide the google account details with enable the billing
+so after that i can integrate the google api
+
+
+Good Evening!
+Greeting of the day!
+Task List
+Date: 11/06/2021
+Project name: AM320
+Dynamic the Oil Special filters as per oil brands
+Fixed design for brands description layout as per asos site reference.
+Added oil products in Product Mega-menu inside Oil category.
+Remove Type category in Oil section as per pdf.
+Dyamic the Brands mega-menu and added search filter as per Brands.
+added images for brands listing in mega-menu.
+Implemented the brands description for oil-products listing page.
+added advertisments for oil section from backend.
+
+
+
+++++++++++++++++++++++++++++++++++++++++++
+
+Good Evening!
+Greeting of the day!
+Task List
+Date: 14/06/2021
+Project name: AM320
+Implemented menu filters as per Products and compatibility for Oil section.
+Implemented category table and seeders as per added description for parent and sub-categories.
+Implemented brands and categories descriptions as per menu sected in oil, battery and tires section.
+Fixed Advertisment images for oil section in menu section.
+added multiple google map marker for static address for seller section.
+Fixed design for filters , brand and category description in oil,battery and tires product listing page.
+
+
+
+Good Evening!
+Greeting of the day!
+Task List
+Date: 15/06/2021
+Project name: AM320
+Dynamic the compatibility filters as per mega-menu.
+added Product filtes(Engine Oil,Transmission(Automatic),Transmission(Manual),Differential(Front),Differential(Rear),Coolant,Brake Fluid,Gearbox,Steering,Compressor) in Oil Product listing page and implemented listing as per product selected.
+Added oil and tires brands and description in backend for admin section.
+Dynamic the special offers for Tires brand for Tires section and implemented filters as per brands in tires.
+
+
+Good Evening!
+Greeting of the day!
+Task List
+Date: 16/06/2021
+Project name: AM320
+Added new menu for admin and vendor section for Service Centers.
+Added dummy entries in database to make listing for both sections admin and vendor.
+Implemented all service centers listing in Admin section.
+Implemented service centers listing for vendor as per vendor_id like( car_vendor, oil_vendors, tires_vendors and battery_vendors).
+working on autocomplete Service Center search for vendor role.
+Created video for Request Quotation and coupon generate
+please find the video for Request quotation flow.
+https://www.loom.com/share/54e15009e3554f5487ab44f8a14c5fcd
+second part
+https://www.loom.com/share/d289edc8872944168831b4da819fadb0
+
+
+Good Evening!
+Greeting of the day!
+Task List
+Date: 17/06/2021
+Project name: AM320
+Implemented search filters based on Service_center_name for service centers using autocomplete search in vendor Role.
+vendor search only own service centers.
+admin can search all service centers like( vendors and admin service centers)
+created Service centers seeder for Car and oil vendor.
+added dummy services ceneters in service_center_seeder.
+
+today 6:30 billing completed for AM320 Project.
+
+
+
+Good Evening!
+Greeting of the day!
+Task List
+Date: 18/06/2021
+Project name: AM320
+Implemented search filters based on Service_center_name for service centers using autocomplete search in Admin Section.
+admin can search all service centers like( vendors and admin service centers)
+fixed design for backend service center for admin and vendor setion.
+Moved OIL Menu filters , service center listing, updated categories and Brands to live.
+checked all live site is working fine.
+updated advertisments for oil on Mega menu.
+updated brands and categories description on live.
+
+Today 7:00 billing completed for AM320 Project.
+
+
+
+Good Evening!
+Greeting of the day!
+Task List
+Date: 21/06/2021
+Project name: AMC Management
+Setup Laravel project in local and created database.
+setup Laravel Fresh project on Protocol.
+Implemented Admin role in backend for Amc management project.
+created Database and models for Users on local
+
+Good Evening!
+Greeting of the day!
+Task List
+Date: 22/06/2021
+Project name: AMC Management
+Added Products table and added add,edit and delete operations for Products.
+Added Brands table and added add,edit and delete operations for brands.
+Added Product Categories table and added add,edit and delete operations for Product Categories.
+Implemented simple client registrtaion and login in frontend.
+Created staff Role in Users registration on localhost.
+
+
+Good Evening!
+Greeting of the day!
+Task List
+Date: 23/06/2021
+Project Name: AMC Management
+Moved AMC management localhost to Protocol.
+Added Extra input fields for staff (DOB, Gender and upload_legal_documents).
+implemented staff listing and added add,edit and delete actions in backend for admin section.
+Implemented client listing in backend for admin section.
+Fixed Image upload option in backend for profile picture, product images and brands images.
+Added restrictions for staff role staff can only view client complains listing and menus.
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Please find the link for AMC-Management
+http://amc-management.protocolsolution.com/admin/login
+Backend:
+email: admin@admin.com
+password:password
++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Frontend:
+http://amc-management.protocolsolution.com/
+email: customer@yopmail.com
+password:12345678
+
+
+
+Good Evening!
+Greeting of the day!
+Task List
+Date: 24/06/2021
+Project Name: AMC Management
+Implemented Dashboard widgets as per Staff and Products and all user listing in backend.
+Implemented Staff role for backend access only Complaints , Products, Brands, Product_Category for backend.
+Added Image upload and upload_legal_documents options for Satff Registration in backend.
+Tickes assign to the staff members as per staff_code 
+Added Tickes Listing in Backend and added relations for products, Brands, staff_code and products_categories in backend accessble for admin and staff role.
+
+
+
+zj7W3YCS15
+Good Evening!
+Greeting of the day!
+Task List
+Date: 25/06/2021
+Project Name: AMC Management
+Updated user profile fields(DOB, Phone_number, Address).
+Added all staff widget and all AMC Package widget in dashboard for backend.
+Implemented AMC plan form, models and listinng in backend.
+Updated product table as per added AMC Package.
+Updated user_code in staff and admin profile in backend.
+Implemented Complaints listing as per user_id and role_id in backend for admin and Staff role.
+
+
+Good Evening!
+Greeting of the day!
+Task List
+Date: 28/06/2021
+Project Name: AMC Management
+Added sub menus for users profile in admin section menus are(View profile, View Tickets, view AMC Request) as per staff listing in backend.
+Added tickets listing as per staff role for admin section 
+admin can view all Tickets , AMC Request to Staff.
+Implemented AMC Request form in backend for admin section(add, edit,delete).
+Added all products for AMC plan from for admin section.
+
+Good Evening!
+Greeting of the day!
+Task List
+Date: 29/06/2021
+Project Name: AMC Management
+Fixed add,edit and delete button for all Index pages in backend.
+Implemented Assign ticket to staff members for admin section in backend.
+Added send mail to staff member for regarding Assign ticket to staff member.
+Also added mail function for Add ticket email send to amdin and staff member.
+Added Complaints widget for dashboard in staff section in backend.
+Added Download pdf and Image in backend ticket listing, as per uploaded by cliens in Tickets.
+
+
+Good Evening!
+Greeting of the day!
+Task List
+Date: 30/06/2021
+Project Name: AMC Management
+Implemented Chat-box for backend for staff and Admin section.
+staff and admin can communicate with client on ticket chatbox in backend. 
+Fixed design for dashboard widgets for admin and staff section.
+added AMC request for backend in admin section.
+fixed dashboard widgets restrictions for staff section based on role_id.
+
+
+
+
+Good Evening!
+Greeting of the day!
+Task List
+Date: 1/07/2021
+Project Name: AMC Management
+Removed chatbox functionality from backend from admin and staff section.
+Implemented AMC activation request from backend and send email to clinet for activation AMC plan as per plan duration semelec by client.
+this section is access for admin and staff admin can edit, delete request and staff acan only updated the status of request.
+updated add amc plans as per product in product_relation_table in backend.
+updated fronted query for amc products
+
+
+
+
+Good Evening!
+Greeting of the day!
+Task List
+Date: 2/07/2021
+Project Name: AMC Management
+1. Added validation for frontend during add ticket againts product and checked on this product AMC is availabe or not.
+2. Implemented Relations with AMC activation table with product table and AMc plan table.
+3. Implemented Email functionality for sending AMC Request to admin or staff members.
+4. added save AMC plan with product details.
+5. updated widgets as per admin and staff role_id in backend.
+
+
+
+
+Good Evening!
+Greeting of the day!
+Task List
+Date: 5/07/2021
+1. Updated 4 digit User_code in backend for all users.
+2. Added Last-login and user_active status in Users form in backend.
+3. Added tickets and AMC request listign for all Clints in backend.
+4. added user_profile and user code in view Client, view Admin and view staff profile in backend.
+5. updated user listing as per added extra fields in user table.
+
+
+Good Evening!
+Greeting of the day!
+Task List
+Date: 6/07/2021
+Project Name: AMC Management
+1. Updated all-users, staff and clients view page in backend.
+2. Implemented AMC active and amc requested listing dor clients add in backend for admin section.
+3. Implemented last login and added active and inactive validations for admin and staff section in backend.
+4. fixed upload image and products in admin section.
+5. updated view page design for all-users, clients and staff for admin section.
+
+Project Name: AM320
+updated main website url for Diala.com.sa.
+ http://diala.com.sa/
+username: am320
+password: abduladmin@123#
+
+
+
+  
+Good Evening!
+Greeting of the day!
+Task List
+Date: 7/07/2021
+Project Name: AMC Management
+Implemented show staff details as per client added staff code in ticket for frontend.
+Implemented show and disable staff information in frontend for admin section.
+Updated user table for user model as per added enable/disbale staff info.
+updated all user querries bassed on user status is active or deactive.
+added rectrictions for inactive user can not login the backend and frontend unit admin not changed the staff status.
+
+
+Good Evening!
+Greeting of the day!
+Task List
+Date: 9/07/2021
+Project Name: AMC Management
+worked on web services:
+User Registration API -checked response in Postman
+Edit User API -checked response in Postman
+Get all user listing  - response checked in Postman
+Please find the login details for AMC Management
+
+http://amc-management.protocolsolution.com/admin/login
+ADMIN:-
+email: admin@admin.com
+password:password
+
+STAFF:-
+email: fortec.nisha@gmail.com
+password: 12345678
+
+Normal User:-
+http://amc-management.protocolsolution.com/
+Frontend 
+email: customer@yopmail.com
+password: 12345678
+
+
+++++++++++++++++++++++++++++++++++++++++++++++++
+Good Evening sir!
+Task List
+Date: 13/07/2021
+Project Name: Ecommerce Himikon
+Setup Ecommerce Himikon project on local and resolved Database connectivity issues on localhost.
+checked admin and vendor role in backend.
+
+Project Name: AMC Management
+worked on web services:
+working in create ticket API for AMC Management.
+
+
++++++++++++++++++++++++++++++++++++++++++++++++
+Good Evening sir!
+Task List
+Date: 14/07/2021
+Project Name: Ecommerce Himikon
+checked client changes for ecommerce himikon project on localhost.
+added add-to-cart functionality in wishlist for himikon project on localhost.
+checked complete flow for vendor, admin and customer for ecommerce Himikon in localhost.
+
+Project Name: AMC Management
+worked on web services:
+Create Ticket API for Customer section - checked response in Postman
+Request for Amc activation suring create ticket in customer section - checked response in Postman
+Update Ticket API for customer section - checked response in Postman
+
+
+
+Good Evening sir!
+Task List
+Date: 15/07/2021
+Project Name: Ecommerce Himikon
+Implemented Buy Now functionality for wishlist to move product Directly to Cart
+Added Current_balance for Vendor profile.
+checked withdrawal functionality for vendor and admic section.
+added payment method in withdrawal listing for vendor section.
+
+
+
+Good Evening!
+Greeting of the day!
+Task List
+Date: 16/07/2021
+Project name: AM320
+All specific area should be senstive to click for all 'BodyType' in Find my vehicle filters. - Done
+All specific area should be senstive to click for "Fuel section" in Find my vehicle filters. - Done
+All specific area should be senstive to click for "Equipment section" in Find my vehicle filters. - Done
+All specific area should be senstive to click for "Brands section" in Find my vehicle filters. - Done
+Added New 'Product_status' Page in find my vehicle filter.
+Added New 'Vendors' Page in find my vehicle filter.
+Removed Monthly and Cash tab from filter and updated price range as per added product lowest and highest price.
+
+today 4:40 billing completed for AM320 Project.
+
+
+Good Evening!
+Greeting of the day!
+Task List
+Date: 19/07/2021
+Project name: AM320
+Added Price filter as per Automatically adjusted by the system based on the lowest and highest price in the platform as registered by the Agent for Find my Vehicle.
+Added Vendor fileter for all car products in find my vehicle.
+Added New 'Year Built' range Page in find my vehicle filter. 
+Dynamic the year built range as per added year_bulid in backend.
+
+today 7:10 billing completed for AM320 Project.
+
+
+Good Evening!
+Greeting of the day!
+Task List
+Date: 20/07/2021
+Project name: AM320
+Added Product Status Attribute for Car Products as per PDF. 
+Dynamic the Status Filter and Implemented Status filter in Find my vehicle.  
+Implemented year built filter as per added year_bulid in backend in find my vehicle.
+Updated Save,Enquiry and Compare button functionality as per defined in PDF for Product_listig page(car , Oil, Battery and Tires) and also added in Find my vehicle fileters view page.
+
+today 8:10 billing completed for AM320 Project.
+
+Good Evening!
+Greeting of the day!
+Task List
+Date: 21/07/2021
+Project name: AM320
+Implemented Status filter searching in Find my vehicle.  
+and fixed variants in Find my vehicle.
+added same product with multiple vendors and dynamic the multiple shops in singl product page.
+fixed design for multiple vendors shops in single product page.
+
+today 7:10 billing completed for AM320 Project.
+
+
+
+
+Good Evening!
+Greeting of the day!
+Task List
+Date: 22/07/2021
+Project name: Ecommerce Himikon
+1) Implemented Directly from wishlist to Cart in frontend
+2) Implemented Reviews caption line edit in frontend
+3) Implemented vendor can add Blog and categories 
+working on blog approve by admin functionality.
+
+Please find the video 
+1) Directly product wishlist to cart 
+https://www.loom.com/share/e02e2237e5f94da1a0c1e14129a95ff1
+
+2)Reviews caption line edit in frontend
+https://loom.com/share/830d6d7d7e1441c0aad07295507b0a24
+
+3) Implemented vendor can add Blog and categories 
+ https://loom.com/share/c34b2d78e9454d19a189a95c7af71e6a
+
+
+ 
+
+Good Evening!
+Greeting of the day!
+Task List
+Date: 23/07/2021
+Project name: Ecommerce Himikon
+1) Added Active and deactive blog functionlity for vendor.
+2) Added Active and deactive blog functionlity for Admin.
+3) Added username in Admin section whic user added Blog.
+4) implemented Blog added by vendor going for admin approval after that publich in frontend.
+
+
+Good Evening!
+Greeting of the day!
+Task List
+Date: 24/07/2021
+Project name: Ecommerce Himikon
+1) Completed Blog functionality for frontend, vendor and admin section.
+2) Updated recent blogs,recent categories for blog and tags searching as per approved Blog.
+3) Checked share social media links for blog sharing.
+4) Started working on Request approval for Products from vendor section.
+
+
+
+Good Evening!
+Greeting of the day!
+Task List
+Date: 26/07/2021
+Project name: Ecommerce Himikon
+1) Added Request approval for Products from vendor section.
+2) Added Product request approve and reject functionlity for admin section.
+3) Implemented requested product listing from vendors and also implemented Rejected products listing for admin section in backend.
+
+
+Good Evening!
+Greeting of the day!
+Task List
+Date: 27/07/2021
+Project name: Ecommerce Himikon
+1) Completed Product Request(approval/Reject)in admin section.
+2) Added Product reject reason while admin reject the admin product.
+
+
+Saloon Project:
+updated saloon select with salon key.
+dynamic the saloon listion on click dropdown. 
+
+Good Evening!
+Greeting of the day!
+Task List
+Date: 28/07/2021
+Project name: Ecommerce Himikon
+1) Implemented coupon functionality for Vendor section.
+2) updated coupon table as per added coupon_created_by field.
+3) Added coupon_created_by custom field in Coupon listing in Admin section.
+
+
+Good Evening!
+Greeting of the day!
+Task List
+Date: 29/07/2021
+Project name: Ecommerce Himikon
+Implemented vendor update , active/deactive and delete the own coupons.
+Implemented vendor coupons in checkout page in frontend
+Implemented validations for valid and active coupon apply in frontend.
+Updated vendor Menus section as per added coupon and blog functionality in vendor panel.
+  
+Please find th videos
+1) Vendor can Write blog flow
+ https://loom.com/share/e50de93310c848a5a4efa728c887af1a
+ 
+2) Vendor can Add Coupons flow
+https://loom.com/share/269ae7f78f5240b3aeda1b09b5c2944f
+
+3) Product approval and product rejection from admin flow
+https://loom.com/share/b08f36516f6e41c49bca33f5b59f876c
+
+
+
+Good Evening!
+Greeting of the day!
+Task List
+Date: 30/07/2021
+Project name: Ecommerce Himikon
+Implemented the Current balance of the vendor after completed the customer orders in vendor dashboard.
+checked admin and vendor amount withdrawl request from vendor to admin.
+please find screent for Current balance in vendor account.
+http://i.prntscr.com/UrRXLd6jQn6AYiEpT6j2Uw.png
+
+
+Good Evening!
+Greeting of the day!
+Task List
+Date: 02/08/2021
+Project name: Ecommerce Himikon
+Implemented listing of all vendor orders as per order status(pending, processing and completed)
+Implemented Manage Commission form for backend admin section
+Implemented manage commission and review vendor order menu in backend for admin section.
+implemented Commission table, modal , add-commission form, update and deleted commission in backend.
+
+
+Good Evening!
+Greeting of the day!
+Task List
+Date: 03/08/2021
+Project name: Ecommerce Himikon
+Implemented Admin Commission_price for all vendors in vendor Registration form.
+Implemented add, update and show admin commission in admin section for backend.
+Vendor can choose admin commission price which is already added in backend by admin.
+Added Total Earning for all orders and show total completed orders in vendor review page.
+https://prnt.sc/1iotbps
+
+Good Evening!
+Greeting of the day!
+Task List
+Date: 04/08/2021
+Project name: Ecommerce Himikon
+Implemented active vendors dropdown in vendor review page.
+Implemented order listing based on particular vendor selected in dropdown in review page.
+Calculated vendor total earning.
+https://prnt.sc/1j0i7l1  
+
+
+
+Good Evening!
+Greeting of the day!
+Task List
+Date: 05/08/2021
+Project name: Ecommerce Himikon
+Implemented total vendor earning as per total completed orders in admin section.
+Implemented admin commission as per total completed orders in admin section.
+working on calculating the admin commission on monthly basis as per total vendor orders completed in a month.
+
+
+
+Good Evening!
+Greeting of the day!
+Task List
+Date: 06/08/2021
+Project name: Ecommerce Himikon
+working on implementing single vendor review page for admin section.
+
+Project name: Am320
+Added Services ,Record and cars for corporate in menu section.
+Implemented menu as per provided PDF.
+working on update find my vehicle page as per PDF.
+
+
+
+
+Good Evening!
+Greeting of the day!
+Task List
+Date: 09/08/2021
+Project name: Ecommerce Himikon
+Implemented single vendor review page for admin section.
+Added total vendors, total price,compl orders.
+
+Project name: Am320
+
+Added Record, Signin/Signup ,Services ,Record and cars for corporate in menu section.
+Design updated for main header and sub header as per privide PDF.
+updated logo as per PDF.
+
+
+Good Evening!
+Greeting of the day!
+Task List
+Date: 10/08/2021
+Project name: Ecommerce Himikon
+working on calculating the monthly orders completed and admin commission for completed orders.
+fixed design for single vendor listing.
+
+Project name: Am320
+Implemented Home page design as per client feedback.
+added find my vehicle link as per new design in homepage.
+updated menu color as per pdf provided by client.
+
+
+Good Evening!
+Greeting of the day!
+Task List
+Date: 11/08/2021
+Project name: Ecommerce Himikon
+calculated admin commission on vendor dashboard for previous month.
+now working on calculate the all previous months admin commission for vendor dashboard.
+
+Project name: Am320
+Dynamic the price range for quick search for homepage.
+Dynamic the bodyType and car status for quick search in homepage.
+Implemented quick search based on price-range,bodytype and Status.
+
+completed 4:10 hours billing for abdul project
+
+
+Good Evening!
+Greeting of the day!
+Task List
+Date: 12/08/2021
+sir, i have uploaded the code in server.
+please find the login details for admin, vendor and user
+
+ADmin login details
+https://sellspace.co.in/admin/login
+ username: admin@gmail.com
+ password: admin@123#
+
+Vendor login details
+https://sellspace.co.in
+username: vendor@gmail.com
+pass: 123456
+
+User login details
+https://sellspace.co.in
+username: fortec.nisha@gmail.com
+pass: 123456
+
+Project name: Am320
+Fixed design for home page after adding the new changes.
+
+completed 4:10 hours billing for abdul project
+
+
+
+Good Evening!
+Greeting of the day!
+Task List
+Date: 13/08/2021
+Project name: Ecommerce Himikon
+checked all changes on live server
+
+
+Project name: Am320
+added validaions for quick search in homepage for frontend.
+
+completed 4:10 hours billing for abdul project
+
+
+
+Good Evening!
+Greeting of the day!
+Task List
+Date: 16/08/2021
+Project name: Ecommerce Himikon
+Implemented previous months admin commission as per completed for vendor dashboard in frontend.
+Calculated admin commission as per completed orders in admin section for review single vendor page.
+
+
+Good Evening!
+Greeting of the day!
+Task List
+Date: 16/08/2021
+Project name: Am320
+moved code(find my vehicle, updated menu and quick search) on live.
+Implemented add service centers for vendor sections.
+Implemented service center listing for vendor and admin section.
+
+
+Project name: AMC
+Implemented Login Api for frontend.
+Implemented Ticket listing Api for frontend.
+Implemented Products,brands and Categories Api for frontend.
+Implemented Ticket detail API for Frontend.
+
+
+
+Good Evening!
+Greeting of the day!
+Task List
+Date: 19/08/2021
+Project name: Am320
+Implemented add, edit and delete service centers for vendor sections.
+Implemented edit and deleteservice center listing for vendor and admin section.
+Implemented listing of service center for vendor and admin section.
+now working on implemented service center fileter as per service center name.
+Fixed update customer profile on fronted on localhost.
+
+6:00 billing completed for am320.
+
+
+Good Evening!
+Greeting of the day!
+Task List
+Date: 20/08/2021
+Project name: Am320
+Resolved issue for customer update form in frontend.
+Updated custom validations for vendor Registration form.
+fixed design for logo in vendor registrtaion page.
+Removed slider banner form homepage.
+working on implemented service center fileter as per service center name in admin panel.
+moved all changes(customer profile update, vendor register validation, and (add,update and delete service center for admin and vendor panel)) to live server.
+
+2:40 billing completed for am320.
+
+
+
+
+
+
+
+
+Good Evening!
+Greeting of the day!
+Task List
+Date: 23/08/2021
+Project name: Am320
+1)Implemented the validations for account_no and Number allowed only numeric values for vendor registration
+2) Please find the vendor registration video with complete flow
+https://www.loom.com/share/b7370947331d433d9b95dab3c79306e7
+
+3) Implemented search based on service center for admin and vendor section.
+
+Project name: Ecommerce sellspace
+
+1) Updated vendor rediorection after login in Homepage.
+2) Fixed issue on user panel on click purchase Items.
+3) message functionlity manage by third party(tawk.to)
+
+
+
+
+Good Evening!
+Greeting of the day!
+Task List
+Date: 24/08/2021
+Project name: Am320
+Implmented service center search based on service center name for both vendor and admin section.
+Implmented service center search based on vendor name for admin section.
+please find the video for search filters
+https://www.loom.com/share/e1d0d8e6f4bf44be985cffd20076ce09
+
+4:00 hours billing completed for sachin id.
+
+
+Project name: Ecommerce sellspace
+
+1) Fixed design for search product in homepage based on product name in live site
+2) moved vendor redirection after login to homepage and user panel on click purchase Items design changes.
+3) Please find the video for Product price in frontend.
+https://www.loom.com/share/a6f5720fde54436b9ad7af8ab4eb6b48
+i have checked flow for product price showing 1919 in product detail page and other pages in frontend , but vendor added 1500 for this product.
+Fixed commission and Percentage commission static added in general setting table which is not managed by backend.
+please let me know your feedback
+
+
++++++++++++++++++++++++++++++++++++++++++++++
+
+Good Evening!
+Greeting of the day!
+Task List
+Date: 24/08/2021
+Project name: Am320
+Added validation for search service center and vendor name input for both vendor and admin section.
+Implemented Buy-a-car and services page in frontend homepage.
+Implemented homepage quick search section and banner image change on click header(Buy A Car and services) in homepage.
+
+4:00 hours billing completed for sachin id.
+
+Project name: Ecommerce sellspace
+1) contact us page is working 
+please find the video
+https://www.loom.com/share/ad06387882894cd8916e77e1a0a87ee5
+
+2) share product links and blog share links for product deatail and blog detail page.
+please find the video for copy blog and product link to share on other apps
+https://www.loom.com/share/425d212f2f044bd3aeab834a85741903
+
+3) working on validationg the vendor edit profile
+
+edited in blogshow file and product file.
+
+
++++++++++++++++++++++++++++++++++++++++++
+Good Evening!
+Greeting of the day!
+Task List
+Date: 26/08/2021
+PROJECT NAME: Am320
+added homepage quick search section and banner image change on click header(Buy A Car and services) in homepage.
+added Buy-a-car and services page in frontend homepage.
+Added confiramation popup meddage for vendor provide service center services in vendor dashboard.
+please find the video for complete functionality for vendor and admin panel.
+https://www.loom.com/share/984e7f071cbe484881ec7e5f42e51f39
+
+completed 4:00 hours billing for sachin id.
+
+PROJECT NAME: Ecommerce sellspace
+
+1) Added validation for vendor edit profile and show success and warning messages.
+2) show contact-us Email in backend for admin panel.
+3) working on add sulg in blog for vendor and admin panel.
+
+Query:-
+
+1) coupons with product listing:-
+i have checked there is not existing functionality in coupons are not directly or indirectly linked with products so please let me know about this task .
+https://www.loom.com/share/d3efc9735c70452aa8bd93027fcfa012
+
+Good Evening!
+Greeting of the day!
+Task List
+Date: 27/08/2021
+PROJECT NAME: Ecommerce sellspace
+
+Added slug in blog table for share blog functionality for both vendor and admin section on localhost and live.
+Updated validations for Vendor edit profile on live.
+Contact us form is working on live. 
+Updated share product link functionality for frontend on live.
+Updated share blog link functionality for frontend on live.
+
+
+========================================================================
+=====================
+1 SEPT 2021
+Hello Yevetta
+Hope you are doing Great!
+
+Project Name: Mastervitamins
+https://fortecsalesforce.com/mastervitamins/
+
+1. Please make the bottle a little longer.  It looks too short.
+2. Font change wasn’t done…please fix that.
+3. Please change fonts here too.  (please see last updates for font)
+4. Please make this a little larger and move down a tiny bit.   DONE
+5. Please just put Mission & Vision on the same line without another submenu    DONE
+6. Please put Master Vitamins logo and larger printed address and phone number centered (please add Contact Us picture)  DONE
+7. Please also put email address: Info@mastervitamins.com   Done
+Fixed responsive for Mobile.
+====================================================================================================================
+=====================
+Hello Max
+Hope you are doing Great!
+
+Project Name: Maxwell goss
+https://fortecsalesforce.com/maxwellgoss/
+
+2. You can even see it on the photo you sent me. The red line covers up a bit of the READ MORE button but not the photo. Blow it up big and you will see.
+https://prnt.sc/1qxh0hq  Done
+
+4. Your point is noted. I didn't want the same colors; I was just showing you the layout. The search bar is a good start, but please make it look more like the sample I sent you. I want a "Go" button to the right like you see there. Can you do that? Also, the font where it says "SEARCH" on top is bigger than in the other sections. Please, please make everything consistent, not random. 
+
+https://prnt.sc/1qxhkha ----DONE
+
+5. Looks good. Now can you please use that same font size and spacing for the About the Author section?
+
+https://prnt.sc/1qxhm83 -- DONE
+
+6. Looks good. But please move the light blue down even more. It should be right in the middle.Also, please make the blue line the same length, horizontally, in every section. PLEASE BE CONSISTENT.
+ 
+https://prnt.sc/1qxhm83 ---Done
+
+
+9. The gray looks darker than in other section. Look at the gray background in the Trade Secret FAQs section on the Home page. Can you please match that?
+
+https://prnt.sc/1qxhqnv  --- DONE
+
+10. Good, but "Get in Touch" should be the same font style as the other sections on the Home page (Recent Posts, Trade Secret FAQs, etc.) 
+
+https://prnt.sc/1qxhrph   ---- DONE
+
+Please check and let me know your Feedback.
+Thank you
+=====================
+Hello Yevetta
+Hope you are doing Great!
+
+Project Name: Mastervitamins
+https://fortecsalesforce.com/mastervitamins/
+
+
+1. Please make this a little larger and move down a tiny bit.   DONE
+2. Please just put Mission & Vision on the same line without another submenu    DONE
+3. Please put Master Vitamins logo and larger printed address and phone number centered (please add Contact Us picture)  DONE
+4. Please also put email address: Info@mastervitamins.com   Done
+Fixed responsive for Mobile.
+
+ 
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+2  SEPT 2021
+=====================
+Hello Max
+Hope you are doing Great!
+
+Project Name: Maxwell goss
+https://fortecsalesforce.com/maxwellgoss/
+
+1) Here's another thing: A few weeks ago, I had you delete the words "Hear What Our Clients are Saying" from the Home page. Now those words are back! Please delete them again.
+
+Done
+
+2) PLEASE FIX THE LIGHT BLUE LINES PER MY COMMENTS ABOVE.
+https://prnt.sc/1r0jf3k Done
+
+3) "Our Approach" is still smaller. See attached.
+https://prnt.sc/1r0jg0d Done
+
+4) Please fix the middle gray box as discussed above.
+
+https://prnt.sc/1r0ji92 Done
+
+5) Please also send me the link to the About Max Goss page again.
+
+https://fortecsalesforce.com/maxwellgoss/about-maxwell-goss/
+
+6) Address the rounded corners in the search box and Go button.
+
+https://prnt.sc/1r0kn8s Done
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Hello Yevetta
+Hope you are doing Great!
+
+Project Name: Mastervitamins
+https://fortecsalesforce.com/mastervitamins/
+
+1) Please put Master Vitamins together on one line. Should it be centered?
+Done
+
+2)We need the picture between the vitamin C and vitamin D. Maybe we should have all the pictures on top of the information that it is referencing for mobile
+Done
+
+3) Can we put some space between these two? Those pictures are for the top product and not the one beneath it.
+Done
+
+4) Those questions shouldn’t be there. That’s for the FAQ and that should show up on the drop-down button. Thanks so much for removing the functionality of the top word in the menu when it has a drop-down.
+
+please check this video https://www.loom.com/share/b951744a7e7f4470975eb0c71edf82f5
+if we click on menu icon its will displayed the menu items and after that click on cross button then menu itesm hidden but does not means Faqs functionality is not working.
+
+
+5)Please update those areas with that font.
+Done
+
+6) this is the quote for 3 John 2:
+Beloved, I pray that you may prosper in all things, and be in health, just as your soul prospers
+Done
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+3  SEPT 2021
+Menu
+1. When one is on the blog page, “Blog” is highlighted in blue, like this:
+2. But it doesn’t work like that for other pages. Please fix / make consistent. 
+
+Please check the video
+https://www.loom.com/share/1c2cfb554e624236a51f0133713e1683
+Done
+
+Footer / “Get in Touch”
+
+3. Move the email address down just a pixel or two so the spacing is consistent.
+https://prnt.sc/1r3qfqn  Done
+4. Where it says “Copyright © Maxwell Goss,” there should be no link embedded in “Maxwell Goss” 
+Done
+
+Home
+“What We Do”
+
+5. I had you remove the arrows in the boxes and on the right and left. You did – bit
+now they are back! Please take them back out!
+Done
+
+About Maxwell Goss
+
+6. Why doesn’t the link to this page in the menu work?
+   Added Page in About Maxwell Goss
+
+7. Where it says “About Maxwell Goss,” please use the exact same font type, size,weight that you use on other pages, e.g., Legal Services.
+Done
+8. Please SAVE this page.
+Done
+9. Then, on a different page, try a bio page with just a white background, maybe
+something like this: https://cartwrightlaw.com/attorney/robert-e-cartwright-jr/ (but
+without the Super Lawyers icon and other crap at the top)
+
+What Clients Say
+
+10. At the top, say “What Clients Say,” not “What Clients are Saying”
+https://prnt.sc/1r3qwf1 Done
+
+11. At the bottom, there are three little round buttons: 
+https://www.loom.com/share/29ded9d7880f4321a40f7c27f253d5a1  Done
+
+a. The third button doesn’t work. Please fix.  Done
+b. Please make sure to capture ALL entries from the testimonials page of the
+original website: https://www.maxwellgoss.com/testimonials/
+
+Blog
+12. Overall, looking good!
+13. We are having a real disconnect over those light blue lines.   Done
+a. Please do them like this: https://prnt.sc/1r3ssn3  Done
+b. Also, please move the blue lines downward more. Here I want it exactly in
+the middle between “Categories” and “All.” (And the same in the other
+boxes.)  
+https://prnt.sc/1r3ssn3 Done
+ 
+14. Search: I see you squared the corners of the “Go” button. Great! Now can you
+square the corners of the search box?
+https://prnt.sc/1r3sy3j Done
+15. When one clicks through to a blog entry, the title of the post wraps around in a
+weird way, like this:
+a. Can you make it so that “Display” continues right after “Shareholder,”
+without wrapping around (unless the screen is small)?
+https://prnt.sc/1r3t57u  Done
+
+b. Please let me know if this does not make sense.    
+
+Trade Secret FAQs
+
+16. Good.
+17. Note: Like the blog, I will need an interface where I can easily add entries here.
+Theses functionality already implemented please check this video
+https://www.loom.com/share/0d61a4e6b20b4155870bd078fded05be
+
+News and Events
+
+18. The “5” at the bottom jumps the reader down to the footer. Please fix.  
+https://www.loom.com/share/ad5332430f674fb8b02cc4b703f37c41 DOne  
+
+19. Otherwise good.
+
+20. Note: Like the blog, I will need an interface where I can easily add entries here
+Theses functionality already implemented please check this video
+https://www.loom.com/share/0d61a4e6b20b4155870bd078fded05be

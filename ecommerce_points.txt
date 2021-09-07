@@ -1,0 +1,58 @@
+Client::
+
+1. Directly from wishlist to Cart  -  need to done - 2 hours  -- DONE
+
+2. Reviews caption line edit   - 5 hours    -- DONE
+ 
+3. Order history bit confused  - Already exist and working fine 
+
+4. Refer n earn points - I did not find any referen or earn functionality  in system . there affiliate product title in vendor and affiliate bouns in customer section but those are  not working . seems like whole module need developed complete loyal program(refer and earn system) which will take 3 to 4 days as this need complete system setup like customer ability to invite the others , then once user register through the  invite then on every purchase  some points or discount need to add the master customer who invite this new user or friend.  
+
+5. Can read & share blogs- can read the admin blog but share functionality need to develop- approximate 2 days working    ---   DONE
+
+Merchant::
+
+1. Pending earnings (amount that needed to transfer to vendor account)- currently admin did not show any  earning amount of vendors and also vendor do not show any earning amount details plus withdrawal details and even admin also dont show the earning of vender.
+
+2. Vendor Put store on sale  -- need to explain  
+
+3. Vendor can Write blog-  3 days working  -- DONE
+
+4. Ticket section (Issue Raising) for vendor   -- vendor ticket section is not working plus admin is not able to identify the ticket between vendor and customer  and ticket sytem is basic only sending ticket subjet and message so only standred message can be send like contact us form so does is need to work with same way or need specific ticket system with extra functionality?
+
+5. Product sharing Copy Link  - social media sharing is not working and public link sharing need to created  --- DONE
+
+6. Different Discount Page -- currently admin have discount management system but vender doest not have here as per the current situation we can display admin created coupen list to vender add new Product section and give the vender ability associate admin created coupen to his or her products but this need change in a admin discount flow , vender panel, order section and frontend discount apply system required 2-3 days.  --- Done
+
+7. Title tag missing on product page =1 day need to complete   
+https://prnt.sc/1b07s9b
+
+8. Approval of product by Admin = 1 day need to complete  --- Done
+
+Website::
+
+1. Banner size issue  - Currently coder  have added recommaded size banner 1920*220 for store banner image which seem to fine .  small image looks bed on store header hero image section . so seems working fine so please let me know whats else  you need here in regard of banner  issue.
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+Task list for Sellspace ecommerce project
+
+1) Edit vendor profile required validations.  -- DONE 
+Done
+
+2) contact us page is working    info@himikon.com  --- DONE 
+please find the video
+https://www.loom.com/share/ad06387882894cd8916e77e1a0a87ee5
+
+3) share product links and blog share links  --- DONE
+please find the video for copy blog and product link to share on other apps 
+https://www.loom.com/share/425d212f2f044bd3aeab834a85741903
+
+4) coupons with product listing:-
+i have checked there is not existing functionality in coupons are not directly or indirectly linked with products so please let me know about this task .
+https://www.loom.com/share/d3efc9735c70452aa8bd93027fcfa012
+
+
+5) coupon appied on two or more products which has hightest cost.
+
+
